@@ -5,14 +5,16 @@
   top: 0;
   left: 0;
   padding: 10px;
+  
 }
 
 @media (min-height: 800px) {
   .wrapper {
-    background: #000000CC;
+    background: #a5a1a176;
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     padding: 10px 20px;
+    
   }
 }
 
@@ -21,6 +23,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 }
 
 .logo {

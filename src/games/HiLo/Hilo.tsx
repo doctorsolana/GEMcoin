@@ -150,7 +150,7 @@ export default function HiLo() {
                 >
                   <Card>
                     <div className="rank">{RANK_SYMBOLS[card.rank]}</div>
-                    <div className="suit" style={{ backgroundImage: 'url(/logo.svg)' }} />
+                    <div className="suit" style={{ backgroundImage: 'url(/logo.png)' }} />
                   </Card>
                 </CardContainer>
               )
